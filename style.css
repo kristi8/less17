@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+body{
+    background-color: aquamarine;
+}
+.wraper{
+    display: flex;
+    justify-content: space-around;
+    align-items: inherit;
+    padding: 50px;
+}
+.li-fetch{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+
+.li-xml{
+    color: blue;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.btn{
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    border:1px solid  ;
+    font-weight:bold ;
+
+    
+}
